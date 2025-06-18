@@ -1,0 +1,23 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "suma.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node suma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyucra/ejemploci01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyucra/ejemploci01/issues"
+  },
+  "homepage": "https://github.com/yyucra/ejemploci01#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
